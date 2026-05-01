@@ -4998,3 +4998,4 @@ GIF89a/*<svg/onload=alert(1)>*/
 <tfoot onmouseover="alert(1)">test</tfoot>
 <tfoot onmouseup="alert(1)">test</tfoot>
 <tfoot onpaste="alert(1)" contenteditable>test</tfoot>
+
